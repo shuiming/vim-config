@@ -45,6 +45,6 @@ set incsearch
 let &termencoding=&encoding
 set fileencodings=utf-8,gbk,ucs-bom,cp936
 
-set ts=4
+set tabstop=4 shiftwidth=4
 set expandtab
 set autoindent
